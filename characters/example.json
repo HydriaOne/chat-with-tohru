@@ -1,0 +1,16 @@
+{
+    "Entity1": {
+        "name": "Generic Name",
+        "tts_voice": "generic_language_code",
+        "pitch": 7,
+        "filter_radius": 3,
+        "search_feature_ratio": 0.75,
+        "volume_envelope": 1,
+        "protect_voiceless_consonants": 0.5,
+        "hop_length": 128,
+        "pitch_extraction_algorithm": "generic_algorithm",
+        "voice_model": "path_to_generic_model",
+        "index_file": "path_to_generic_index",
+        "clean_strength": 0.6
+    }
+}

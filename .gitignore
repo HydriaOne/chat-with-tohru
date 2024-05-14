@@ -1,0 +1,29 @@
+# Generic
+/.idea
+/build
+/buckets
+/venv
+/wheels
+/dist
+/target
+/mypy.log
+*.pyc
+/__pycache__
+/core/__pycache__
+
+# Docker
+Dockerfile.cmd
+docker-compose-*
+docker-*
+
+# Gradle
+build/*.kts
+build/*.lock
+build-impl.txt
+
+# App
+*.class
+downloads
+logs
+characters/*
+!characters/example.json
