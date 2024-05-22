@@ -27,3 +27,4 @@ downloads
 logs
 characters/*
 !characters/example.json
+config.yaml

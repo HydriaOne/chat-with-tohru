@@ -9,10 +9,10 @@ This project aims to create an interactive experience where users can engage in 
 2. Navigate into the project directory: `cd chat-with-tohru`
 3. Install dependencies: `pip install -r requirements.txt`
 4. You need to start Applio & oobabooga in api mode. 
-5. Run the script: `python main.py`
+5. Run the script: `python -u main.py`
 
 ## Usage
-The script allows users to input text which will be processed by the OpenAI chat model and then converted to speech using Applio's TTS engine. Users can interact with the chatbot as they would normally do in any messaging platform.
+The script allows users to input text which will be processed by the local LLM chat model and then converted to speech using Applio's TTS engine. Users can interact with the chatbot as they would normally do in any messaging platform.
 
 ## Contributions
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please submit a pull request or open an issue.

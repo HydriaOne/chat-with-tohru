@@ -1,0 +1,7 @@
+Applio:
+  base_url: http://127.0.0.1
+  port: 6969
+
+LLM:
+  base_url: http://127.0.0.1
+  port: 5000
